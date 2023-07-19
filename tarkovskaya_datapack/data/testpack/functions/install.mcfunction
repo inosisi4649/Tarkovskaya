@@ -17,5 +17,5 @@ scoreboard players set @a Money 0
 scoreboard players set @a EscapeTime 150
 scoreboard players set chestNum Settings 100
 scoreboard players set tmpcNum Settings 100
-scoreboard players set timeMax Settings 900
+scoreboard players set maxTime Settings 900
 bossbar add timer "残り時間"
