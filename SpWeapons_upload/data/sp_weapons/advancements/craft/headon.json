@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sp_weapons:headon"
+      }
+    }
+  },
+  "rewards": {
+    "function": "sp_weapons:craft/headon"
+  }
+}
