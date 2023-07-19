@@ -1,0 +1,2 @@
+# デジタルスレッド付きチャージャを得る
+  give @s spyglass{SpWeapons_charger:1b,SpWeapons_charger_digital:1b,CustomModelData:3,display:{Name:'{"text":"Charger +DigitalScope","color":"yellow","italic":false,"bold":true}',  Lore:['{"text":" "}','{"text":"[RClick: Charge]","color":"gray","italic":false}','{"text":"[RClick+Sneak: Fire]","color":"gray","italic":false}','{"text":" "}','{"text":"貫け。","color":"white","italic":false}','{"text":"デジタルスコープ付き。","color":"white","italic":false}']},Unbreakable:1b,HideFlags:6}

@@ -1,0 +1,2 @@
+# 雷鳴槍を得る
+  give @s trident{SpWeapons_lightningbolt:1b,CustomModelData:5,display:{Name:'{"text":"雷鳴槍","color":"aqua","italic":false,"bold":true}',  Lore:['{"text":" "}','{"text":"[LClick: Dagger Slash]","color":"gray","italic":false}','{"text":"[RClick: Teleport]","color":"gray","italic":false}','{"text":"[Sneak+Throw: FastBolt]","color":"gray","italic":false}','{"text":" "}','{"text":"響け、轟け、打ち鳴らせ。","color":"white","italic":false}','{"text":" "}','{"text":"Damage +4","color":"blue","italic":false}']},Unbreakable:1b,HideFlags:7,Enchantments:[{id:"minecraft:loyalty",lvl:10s}]}

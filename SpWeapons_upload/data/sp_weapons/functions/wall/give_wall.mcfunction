@@ -1,0 +1,2 @@
+# warpballを得る
+  give @s carrot_on_a_stick{SpWeapons_wall:1b,CustomModelData:8,display:{Name:'{"text":"物理障壁","color":"dark_red","italic":false,"bold":true}',  Lore:['{"text":" "}','{"text":"[LClick: Mineralization]","color":"gray","italic":false}','{"text":"[RClick: Build Wall]","color":"gray","italic":false}','{"text":"Cooldown: 5s","color":"gray","italic":false}','{"text":" "}','{"text":"展開!","color":"white","italic":false}']},Unbreakable:1b,HideFlags:6}

@@ -1,0 +1,22 @@
+# 向きに合わせて概形の防具立て召喚
+  summon minecraft:armor_stand ~-1 ~ ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~ ~ ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~1 ~ ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~-1 ~1 ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~ ~1 ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~1 ~1 ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~-1 ~2 ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~ ~2 ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~1 ~2 ~3 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~-1 ~-1 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~ ~-1 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~1 ~-1 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~-1 ~3 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~ ~3 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~1 ~3 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~-2 ~ ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~-2 ~1 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~-2 ~2 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~2 ~ ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~2 ~1 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}
+  summon minecraft:armor_stand ~2 ~2 ~2 {Marker:true,Silent:true,Invisible:true,NoGravity:true,Tags:["sp.wall_point"]}

@@ -1,0 +1,2 @@
+# リーパーを得る
+  give @s fishing_rod{SpWeapons_grappling:1b,CustomModelData:7,display:{Name:'{"text":"Grappling Hook","color":"green","italic":false,"bold":true}',  Lore:['{"text":" "}','{"text":"[RClick: Grappling]","color":"gray","italic":false}','{"text":" "}','{"text":"スタイリッシュに駆け抜けろ！","color":"white","italic":false}']},Unbreakable:1b,HideFlags:6}

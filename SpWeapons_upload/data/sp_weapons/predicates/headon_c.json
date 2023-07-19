@@ -1,0 +1,44 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:carrot_on_a_stick"
+              ],
+              "nbt": "{SpWeapons_headon_c:1b}"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "offhand": {
+              "items": [
+                "minecraft:carrot_on_a_stick"
+              ],
+              "nbt": "{SpWeapons_headon_c:1b}"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "sp.right_click": {
+        "min": 1
+      }
+    }
+  }
+]

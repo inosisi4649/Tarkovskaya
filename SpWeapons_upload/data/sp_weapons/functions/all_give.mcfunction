@@ -1,0 +1,10 @@
+# 実装中のすべてのアイテムを与える
+  function sp_weapons:reaper/give_reaper
+  function sp_weapons:charger/give_charger
+  function sp_weapons:charger/give_digital_charger
+  function sp_weapons:headon/give_headon
+  function sp_weapons:headon/give_c_headon
+  function sp_weapons:lightningbolt/give_lightningbolt
+  function sp_weapons:warpball/give_warpball
+  function sp_weapons:grappling/give_grappling
+  function sp_weapons:wall/give_wall

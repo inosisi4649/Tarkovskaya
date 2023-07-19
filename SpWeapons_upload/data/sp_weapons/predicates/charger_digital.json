@@ -1,0 +1,36 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type_specific": {
+            "type": "player",
+            "looking_at": {}
+          },
+          "equipment": {
+            "mainhand": {
+              "nbt": "{SpWeapons_charger_digital:1b}"
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type_specific": {
+            "type": "player",
+            "looking_at": {}
+          },
+          "equipment": {
+            "offhand": {
+              "nbt": "{SpWeapons_charger_digital:1b}"
+            }
+          }
+        }
+      }
+    ]
+  }
+  

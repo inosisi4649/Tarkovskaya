@@ -1,0 +1,2 @@
+# 被る君を得る
+  give @s carrot_on_a_stick{SpWeapons_headon:1b,CustomModelData:4,display:{Name:'{"text":"なんでも頭に被る君","color":"white","italic":false,"bold":true}',  Lore:['{"text":" "}','{"text":"[RClick: 被る]","color":"gray","italic":false}','{"text":" "}','{"text":"右手に持ったアイテムを被る。なんでも被る。","color":"white","italic":false}','{"text":"インベントリを開かずホットバー整理ができるが便利ではない。","color":"white","italic":false}']},Unbreakable:1b,HideFlags:6}
